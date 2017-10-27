@@ -21,7 +21,7 @@ Journal of Document Analysis and Recognition, pp. 331-357, 2012.
 3. Symbol Recognition
 
 - MacLean, S., Labahn, G.: Elastic matching in linear time and constant space. In: Proceedings of the 9th IAPR Workshop on Document Analysis Systems. (2010)
-11.
+
 - Hu, L., Zanibbi, R.: HMM-based recognition of online hand-written mathematical symbols using segmental K-means initialization and a modified pen-up/down feature. In: Proceedings of the 11th ICDAR, pp. 457–462. Beijing (2011)
 
 - Álvaro, F., Sánchez, J. A., Benedí, J. M.: Classification of on-line mathematical symbols with hybrid features and recurrent neural networks. In: Proceedings of the 12th ICDAR, pp. 1012–1016. Washington (2013)
@@ -42,6 +42,11 @@ Journal of Document Analysis and Recognition, pp. 331-357, 2012.
 - MacLean, S., Labahn, G.: A Bayesian model for recognizing handwritten mathematical expressions. Pattern Recogn. 48, 2433–2445 (2015)
 - Álvaro, F., Sánchez, J.A., Benedí, J.M.: Recognition of on-line handwritten mathematical expressions using 2D stochastic context-free grammars and hidden Markov models. Pattern Recogn. Lett. 35, 58–67 (2014)
 - Awal, A.M., Mouchére, H., Viard-Gaudin, C.: A global learning approach for an online handwritten mathematical expression recognition system. Pattern Recogn. Lett. 35, 6877 (2014)
+-Le, A.D., Phan, T.V., Nakagawa, M.: A System for recognizing online handwritten mathematical expressions and improvement of structure analysis. In: Proceedings of the 11th IAPR Workshop on Document Analysis Systems, pp. 51–55. (2014)
 
 5. Databases
+- Mouchère, H., Viard-Gaudin, C., Zanibbi, R., Garain, U., Kim, D.H., Kim, J.H.: ICDAR 2013 CROHME: third international competition on recognition of online handwritten mathematical expressions. In: Proceedings of the 12th ICDAR, pp. 1428–1432. (2013)Google Scholar
+- Mouchère, H., Viard-Gaudin, C., Zanibbi, R., Garain, U.: ICFHR: competition on recognition of on-line handwritten mathematical expressions (CROHME 2014). In: Proceedings of the 14th ICHFR, pp. 791–796. Crete (2014)Google Scholar
+- Le, A.D., Nakagawa, M.: A tool for ground-truthing online handwritten mathematical expressions. In: Proceedings of the 16th International Graphonomics Society Conference, pp. 70–73. (2013)Google Scholar
+
 
